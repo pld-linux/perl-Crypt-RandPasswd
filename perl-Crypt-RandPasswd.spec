@@ -3,8 +3,8 @@
 %bcond_with	tests	# perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Crypt
-%define	pnam	RandPasswd
+%define		pdir	Crypt
+%define		pnam	RandPasswd
 Summary:	Crypt::RandPasswd Perl module - pronounceable passwords generator
 Summary(pl):	Modu³ Perla Crypt::RandPasswd - generator wymawialnych hase³
 Name:		perl-Crypt-RandPasswd
