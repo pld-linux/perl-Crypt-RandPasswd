@@ -1,6 +1,6 @@
 #
 # Conditional build:
-# _with_test - perform "make test"
+# _with_tests - perform "make test"
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	Crypt
 %define		pnam	RandPasswd
