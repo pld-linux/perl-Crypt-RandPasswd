@@ -32,7 +32,7 @@ Ten modu³ jest perlow± implementacj± standardu automatycznego
 generatora hase³, takiego jak program opisany w "A Random Word
 Generator For Pronounceable Passwords" (generator losowych s³ów na
 potrzeby wymawialnych hase³). Ten kod jest ponown± implementacj±
-programu zawartego w za³±czniku A opublikacji FIPS numer 181 "Standard
+programu zawartego w za³±czniku A o publikacji FIPS numer 181 "Standard
 for Automated Password Generator".
 
 %prep
