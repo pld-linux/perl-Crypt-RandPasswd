@@ -36,7 +36,7 @@ for Automated Password Generator".
 %setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
-perl Makefile.PL
+%{__perl} Makefile.PL
 %{__make}
 
 # it may hang on a machine that does not receive enough random events
