@@ -38,7 +38,7 @@ for Automated Password Generator".
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 # it may hang on a machine that does not receive enough random events
