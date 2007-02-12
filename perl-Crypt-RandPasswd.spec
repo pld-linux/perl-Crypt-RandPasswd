@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	RandPasswd
 Summary:	Crypt::RandPasswd Perl module - pronounceable passwords generator
-Summary(pl):	Modu≥ Perla Crypt::RandPasswd - generator wymawialnych hase≥
+Summary(pl.UTF-8):   Modu≈Ç Perla Crypt::RandPasswd - generator wymawialnych hase≈Ç
 Name:		perl-Crypt-RandPasswd
 Version:	0.02
 Release:	5
@@ -27,12 +27,12 @@ Generator For Pronounceable Passwords". This code is a re-engineering
 of the program contained in Appendix A of FIPS Publication 181,
 "Standard for Automated Password Generator".
 
-%description -l pl
-Ten modu≥ jest perlow± implementacj± standardu automatycznego
-generatora hase≥, takiego jak program opisany w "A Random Word
-Generator For Pronounceable Passwords" (generator losowych s≥Ûw na
-potrzeby wymawialnych hase≥). Ten kod jest ponown± implementacj±
-programu zawartego w za≥±czniku A publikacji FIPS numer 181 "Standard
+%description -l pl.UTF-8
+Ten modu≈Ç jest perlowƒÖ implementacjƒÖ standardu automatycznego
+generatora hase≈Ç, takiego jak program opisany w "A Random Word
+Generator For Pronounceable Passwords" (generator losowych s≈Ç√≥w na
+potrzeby wymawialnych hase≈Ç). Ten kod jest ponownƒÖ implementacjƒÖ
+programu zawartego w za≈ÇƒÖczniku A publikacji FIPS numer 181 "Standard
 for Automated Password Generator".
 
 %prep
