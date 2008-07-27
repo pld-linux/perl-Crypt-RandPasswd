@@ -9,7 +9,7 @@ Summary:	Crypt::RandPasswd Perl module - pronounceable passwords generator
 Summary(pl.UTF-8):	Moduł Perla Crypt::RandPasswd - generator wymawialnych haseł
 Name:		perl-Crypt-RandPasswd
 Version:	0.02
-Release:	5
+Release:	6
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
