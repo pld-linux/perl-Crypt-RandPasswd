@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_with	tests	# perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	Crypt
 %define		pnam	RandPasswd
+%include	/usr/lib/rpm/macros.perl
 Summary:	Crypt::RandPasswd Perl module - pronounceable passwords generator
 Summary(pl.UTF-8):	Moduł Perla Crypt::RandPasswd - generator wymawialnych haseł
 Name:		perl-Crypt-RandPasswd
@@ -15,6 +15,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	c266c6f10b59945d7dddc58ecef6e13b
+URL:		http://search.cpan.org/dist/Crypt-RandPasswd/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
