@@ -4,7 +4,6 @@
 
 %define		pdir	Crypt
 %define		pnam	RandPasswd
-%include	/usr/lib/rpm/macros.perl
 Summary:	Crypt::RandPasswd Perl module - pronounceable passwords generator
 Summary(pl.UTF-8):	Moduł Perla Crypt::RandPasswd - generator wymawialnych haseł
 Name:		perl-Crypt-RandPasswd
